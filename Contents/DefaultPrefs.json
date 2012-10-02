@@ -1,0 +1,8 @@
+[
+	{
+		"id": "basepath",
+		"type": "text",
+		"label": "Base path",
+		"default": "/Applications"
+	}
+]
