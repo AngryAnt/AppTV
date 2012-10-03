@@ -77,4 +77,4 @@ def ApplicationsMainMenu():
 
 
 def LaunchApplication(sender, path):
-	os.system("open " + path)
+	os.system("open " + path.replace(" ", "\\ "))
